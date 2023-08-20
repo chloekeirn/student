@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
+## Build your Home Page here 
 This is about your journey. Start now!!!
 
 ## Overview of Hacks, Study and Tangibles
