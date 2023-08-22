@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Student Blog
+title: Chloe's Blog
 ---
 
 
-## Build your Home Page here 
+## Chloe's Page
 This is about your journey. Start now!!!
+
+## About Me!
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
