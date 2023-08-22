@@ -5,14 +5,15 @@ title: Chloe's Blog
 
 
 ## Chloe's Page
-Welcome to my blog!
+Welcome to my blog! This page will hopefully let you get to know a little more about myself.
 
 ## About Me!
+This trimester, I'm largely focusing on my classwork and involvement with varsity volleyball. Below I've included an outline of my class schedule, and some things about my life after school.
 
-
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+| Period | Class |
+| :---: | :---: |
+| 1 | AP Calculus AB |
+| 2 | AP Biology |
+| 3 | American Literature |
+| 4 | AP Computer Science Principles |
+| 5 | ENS 4 |
