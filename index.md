@@ -11,7 +11,7 @@ Welcome to my blog! This page will hopefully let you get to know a little more a
 This trimester, I'm largely focusing on my classwork and involvement with varsity volleyball. Below I've included an outline of my class schedule, and some things about my life after school.
 
 | Period | Class |
-| :---: | :---: |
+| :---: | :--- |
 | 1 | AP Calculus AB |
 | 2 | AP Biology |
 | 3 | American Literature |
