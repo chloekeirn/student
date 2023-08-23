@@ -3,7 +3,12 @@ layout: default
 title: Chloe's Page
 ---
 
-## Chloe's Page
+
+
+
+
+
+### Chloe's Page
 Welcome to my blog! This page is dedicated to letting you know a bit more about me.
 
 ## About Me!
