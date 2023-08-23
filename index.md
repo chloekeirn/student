@@ -18,8 +18,5 @@ This trimester, I'm largely focusing on my classwork and involvement in the vars
 | 4 | AP Computer Science Principles |
 | 5 | ENS 4 |
 
-<figure>
-    <img src="freeform.jpg"
-         alt="Freeform drawing about me">
-    <figcaption>Fun things to know!</figcaption>
-</figure>
+<p><img src="freeform.jpg" alt="freeform drawing about me" style="float:right;width:414px;height:644.5px;">
+Bunbun and Peach are my two pets! Bunbun's a 7 year old rabbit, and Peach is a 4 month old puppy we got over the summer. Below them are pretty impressive stick figures of my brothers, as well as a paintbrush to show how much I love making art! I've been playing volleyball since I was 8 years old, and currently play for Del Norte. I was born in Illinois, specifically Chicago, and lived there until I moved here to San Diego when I began first grade. As shown in the bottom drawings, I like to play games in my free time and raise houseplants!</p>
