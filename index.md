@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Chloe's Blog
+title: Chloe's Page
 ---
 
 
 ## Chloe's Page
-Welcome to my blog! This page will hopefully let you get to know a little more about myself.
+Welcome to my blog! This page is dedicated to letting you know a bit more about me.
 
 ## About Me!
-This trimester, I'm largely focusing on my classwork and involvement with varsity volleyball. Below I've included an outline of my class schedule, and some things about my life after school.
+This trimester, I'm largely focusing on my classwork and involvement in the varsity volleyball team. Below I've included an outline of my class schedule, and some things about my life after school.
 
 | Period | Class |
 | :---: | :--- |
@@ -17,3 +17,9 @@ This trimester, I'm largely focusing on my classwork and involvement with varsit
 | 3 | American Literature |
 | 4 | AP Computer Science Principles |
 | 5 | ENS 4 |
+
+<figure>
+    <img src="freeform.jpg"
+         alt="Freeform drawing about me">
+    <figcaption>Fun things to know!</figcaption>
+</figure>
