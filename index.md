@@ -7,7 +7,7 @@ title: Chloe's Page
 <h2> Chloe's Page </h2>
 Welcome to my blog! This page is dedicated to letting you know a bit more about me.
 
-<h4> About Me! <h4>
+<h4> About Me! </h4>
 This trimester, I'm largely focusing on my classwork and involvement in the varsity volleyball team. Below I've included an outline of my class schedule, and some things about my life after school.
 
 | Period | Class |
