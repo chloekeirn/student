@@ -5,7 +5,25 @@ title: Chloe's Page
 
 
 <h1> Chloe's Page </h1>
-<p> Welcome to my blog! This page is dedicated to letting you know a bit more about me. </p>
+<p> Welcome to my blog! This page is dedicated to letting you know a bit more about me. Use these links to navigate to other pages within this site and in GitHub.</p>
+<header class="site-header">
+
+  <div id="header">
+    <style>
+      li {
+        display: inline;
+      }
+    </style>
+      <nav>
+        <ul>
+         <li class="fork"><a href="{{site.baseurl}}/">Home</a></li>
+         <li class="fork"><a href="{{site.baseurl}}/csp">CSP</a></li>
+         <li class="fork"><a href="https://github.com/chloekeirn">My GitHub Page</a></li>
+         <li class="fork"><a href="https://github.com/chloekeirn/student">Student Repository</a></li>
+       </ul>
+     </nav>
+  </div><!-- end header -->
+</header>
 
 <h2> About Me! </h2>
 <p> This trimester, I'm largely focusing on my classwork and involvement in the varsity volleyball team. Below I've included an outline of my class schedule, and some things about my life after school. </p>
