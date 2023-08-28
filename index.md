@@ -11,6 +11,7 @@ title: Chloe's Page
 <li class="fork"><a href="{{site.baseurl}}/csp">CSP</a></li>
 <li class="fork"><a href="https://github.com/chloekeirn">My GitHub Page</a></li>
 <li class="fork"><a href="https://github.com/chloekeirn/student">Student Repository</a></li>
+<li class="fork"><a href="{{site.baseurl}}/lab_nb">Lab Notebook</a></li>
 
 <h2> About Me! </h2>
 <p> This trimester, I'm largely focusing on my classwork and involvement in the varsity volleyball team. Below I've included an outline of my class schedule, and some things about my life after school. </p>
